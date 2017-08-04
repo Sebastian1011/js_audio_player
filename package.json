@@ -1,0 +1,22 @@
+{
+  "name": "js_audio_player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastian1011/js_audio_player.git"
+  },
+  "keywords": [
+    "audio_player"
+  ],
+  "author": "zmzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastian1011/js_audio_player/issues"
+  },
+  "homepage": "https://github.com/Sebastian1011/js_audio_player#readme"
+}
