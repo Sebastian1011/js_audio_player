@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Sebastian1011/js_audio_player/issues"
   },
-  "homepage": "https://github.com/Sebastian1011/js_audio_player#readme"
+  "homepage": "https://github.com/Sebastian1011/js_audio_player#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
